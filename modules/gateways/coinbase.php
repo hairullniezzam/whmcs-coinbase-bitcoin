@@ -55,7 +55,7 @@ function coinbase_link($params) {
 
   $code = coinbase_button_request($invoiceid, $amount, $currency, $description, $type, $style, $text, $url, $ca_path, $api_auth);
 
-  return $code;
+  return $code;0.1113
 
 }
 
